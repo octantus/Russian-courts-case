@@ -31,4 +31,4 @@
 Опубликованный код является модификацией с ускорением работы и дополнительных фич.
 
 # Cтек проекта
-Python (pandas, numpy, aiohttp, yargy, fitz (PyMuPDF), pymorphy3, ThreadPoolExecutor), SQL (PGSQL, ThreadPoolExecutorz)
+Python (pandas, numpy, aiohttp, yargy, fitz (PyMuPDF), pymorphy3, ThreadPoolExecutor), SQL (PGSQL)
